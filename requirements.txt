@@ -1,0 +1,17 @@
+langchain
+langchain_community
+openai
+pandas
+flask
+tabulate
+keras
+langchain_openai
+python-dotenv
+openpyxl
+streamlit
+pandasai
+pypdf
+tensorflow
+tiktoken
+sentence-transformers
+faiss-cpu
