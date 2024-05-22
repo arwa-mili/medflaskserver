@@ -5,6 +5,7 @@ pandas
 flask
 tabulate
 keras
+gunicorn
 langchain_openai
 python-dotenv
 openpyxl
